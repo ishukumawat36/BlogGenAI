@@ -1,4 +1,4 @@
-# AgentScribe
+# Blog Generation Agentic AI
 
 An agentic AI-powered blog generation system built with LangGraph and Groq. AgentScribe autonomously generates SEO-friendly blog titles, detailed content, and translates output into multiple languages — all through a structured multi-node graph pipeline.
 
